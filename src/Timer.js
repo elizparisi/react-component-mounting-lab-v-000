@@ -7,6 +7,7 @@ class Timer extends Component {
   };
 
   // add your code here
+  
 
   render() {
     const { time, color } = this.state;
